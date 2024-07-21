@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(25,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(26,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(82,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(83,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(85,23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(86,23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(91,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(210,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(211,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(296,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(297,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(682,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(683,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(684,23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(686,23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(726,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(727,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(205): warning C4715: GameStart: значение возвращается не при всех путях выполнения
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(70): warning C4715: choose_game_mode: значение возвращается не при всех путях выполнения
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(719): warning C4715: show_solved_result: значение возвращается не при всех путях выполнения
+C:\Users\NoFi\source\repos\sum_pract_2024\sum_pract_2024\main.cpp(753): warning C4715: show_unsolved_result: значение возвращается не при всех путях выполнения
